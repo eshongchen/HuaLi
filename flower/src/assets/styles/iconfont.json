@@ -1,0 +1,51 @@
+{
+  "id": "1759807",
+  "name": "huahua",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "815563",
+      "name": "电话",
+      "font_class": "dianhua3",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "2205703",
+      "name": "购物车",
+      "font_class": "shopshoppingco",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "11759983",
+      "name": "耳机",
+      "font_class": "erji",
+      "unicode": "e7c5",
+      "unicode_decimal": 59333
+    },
+    {
+      "icon_id": "593047",
+      "name": "weixin",
+      "font_class": "weixin",
+      "unicode": "e709",
+      "unicode_decimal": 59145
+    },
+    {
+      "icon_id": "688449",
+      "name": "shouji",
+      "font_class": "shouji",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "10683308",
+      "name": "星形",
+      "font_class": "xingxing",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    }
+  ]
+}

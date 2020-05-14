@@ -1,0 +1,14 @@
+* {
+	margin: 0;
+	padding: 0;
+
+ }
+/*变色的颜色*/
+.text_color{
+	color: #ff6a00;
+}
+/*a标签变色前的颜色*/
+
+a.text-dark:hover, a.text-dark:focus {
+     color: #ff6a00 !important; 
+}
